@@ -6,7 +6,7 @@ Del mismo modo se amplía las funcionalidades requeridas.
 
 ## Vista General
 
-![Diagrama de Arquitectura](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/diagram.png)
+![Diagrama de Arquitectura](https://raw.githubusercontent.com/ProyectoSemana1-BC49/.github/main/res/diagram.png)
 
 La imagen anterior ofrece una visión general de la arquitectura, donde cada microservicio cumple un papel crucial en la entrega de funcionalidades específicas. A continuación, proporciono detalles sobre cada repositorio que forma parte de este proyecto.
 
