@@ -29,7 +29,7 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 ![kafka](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/kafka.PNG)
 
 ### Redis
-![redis](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/redis.PNG)
+![redis](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/redis.jpeg)
 
 ## Repositorios
 
