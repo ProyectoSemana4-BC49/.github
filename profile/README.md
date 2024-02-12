@@ -31,6 +31,9 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 ### Redis
 ![redis](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/redis.jpeg)
 
+### Sonar
+![redis](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/sonar.PNG)
+
 ## Repositorios
 
 ### [ms-creditos](https://github.com/ProyectoSemana4-BC49/ms-creditos)
