@@ -26,7 +26,7 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 ![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/logstash.jpeg)
 
 ### Apache Kafka
-![kafka](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/kafka.PNG)
+![kafka](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/kafka_2.PNG)
 
 ### Redis
 ![redis](https://raw.githubusercontent.com/ProyectoSemana4-BC49/.github/main/res/redis.jpeg)
